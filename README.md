@@ -1,10 +1,10 @@
-#Happiness Prediction
+# Happiness Prediction
 
 No matter what you do in life, make sure you are ahppy about it. Happiness is all that matters.
 So in order to be happy, what should you do in life?
 Let's see.
 
-##Installation requirements
+## Installation requirements
 
 This project requires python 3.6 or any other higher versions of python along with the following libraries installed:
 
@@ -14,11 +14,11 @@ This project requires python 3.6 or any other higher versions of python along wi
 
 You will also require a software named "Jupyter Notebook" to run this project and Anaconda version of python.
 
-##Repository Information
+## Repository Information
 
 it contains one notebook called "Happiness Score-Final.ipynb"
 
-##Features Information
+## Features Information
 
 * Economy (GDP per Capita) 
 * Family 
@@ -28,11 +28,11 @@ it contains one notebook called "Happiness Score-Final.ipynb"
 * Trust
 * Dystopia Residual
 
-##Output(Target)
+## Output(Target)
 
 * Happiness Score - Estimation
 
-##Models trained on:
+## Models trained on:
 
 Training Model | Error
 ----------------------
