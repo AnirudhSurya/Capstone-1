@@ -35,5 +35,5 @@ it contains one notebook called "Happiness Score-Final.ipynb"
 ## Models trained on:
 
 Training Model | Error
-----------------------
+-------------- | -----
 Linear Regression | 0.9%  
